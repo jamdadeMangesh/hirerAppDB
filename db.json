@@ -143,5 +143,28 @@
       "endTime": "15:30",
       "total": "05:30"
     }
+  ],
+    "selectapp":[
+    {
+      "id":1,
+      "appname":"Ocado - Manchester Warehouse"
+    },
+    {
+      "id":2,
+      "appname":"Ocado - Birmingham Warehouse"
+    },
+    {
+      "id":3,
+      "appname":"Ocado - Farnborough Warehouse"
+    },
+    {
+      "id":4,
+      "appname":"Sainsburys - Birmingham Warehouse"
+    },
+    {
+      "id":5,
+      "appname":"Sainsburys - Farnborough Store"
+    }
+    
   ]
 }
